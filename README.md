@@ -6,7 +6,7 @@
 con Firebase utilizando el paquete https://pub.dev/packages/firebase_auth (firebase_auth). Este formulario permitira el ingreso a un usuario preexistente o si el usuario aun no se ha registrado puede dar click en crear cuenta para proceder con su registro.
 
 
-[![imagen_2023-08-30_232218227.png](https://postimg.cc/75FkJndv)
+[![PRIMER.png](https://i.postimg.cc/cJH4jDcJ/PRIMER.png)](https://postimg.cc/75FkJndv)
 
 ##REGISTRO
 2. Se implemento un formulario de registro donde pedira un correo y contraseña. 
